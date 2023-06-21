@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <br />
 <div align="center">
 <h2 align="center">Django-React-Epic-Tales</h2>
@@ -31,17 +38,13 @@
 
 EpicTales is a web application that focuses on India's greatest epics. With a user-friendly interface, users can explore, interact, and engage with the timeless tales through the platform. Built using Django and React, the project provides efficient data management and an intuitive user interface. Users can perform actions such as sending, updating, and deleting entries, each containing a description, heading, and notes. Whether users prefer to explore entries individually or in bulk, EpicTales caters to their preferences.
 
-Team - `shivam6862`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [react-url]
-- [NodeJs-url]
-- [Mongodb-url]
-- [Django]
-- [VisualStudioCode-url]
+- [![react][react]][react-url]
+- [![Django][Django]][Django-url]
+- [![VisualStudioCode][VisualStudioCode]][VisualStudioCode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,11 +58,11 @@ So as to run our project locally, you need to follow the steps below.
    ```sh
    git clone https://github.com/shivam6862/Django-React-Epic-Tales.git
    ```
-2. Install NPM packages on frontend_map_my_food folders
+2. Install NPM packages on frontend folders
    ```sh
    npm install
    ```
-3. Run the project in frontend_map_my_food using
+3. Run the project in frontend using
    ```sh
    npm run dev
    ```
@@ -137,20 +140,21 @@ Project Link: [https://github.com/shivam6862/](https://github.com/shivam6862/)
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [MongoDb](https://www.mongodb.com/)
-
-* []() Finally, kudos to the team for the great work `shivam6862`
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[react-url]: https://reactjs.org/
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[nodejs-url]: https://nodejs.org/en
-[mongodb-url]: https://www.mongodb.com/
-[Django]: https://docs.djangoproject.com/en/4.2/topics/auth/default/
-[visualstudiocode-url]: https://code.visualstudio.com/
+[contributors-shield]: https://img.shields.io/github/contributors/shivam6862/Django-React-Epic-Tales.svg?style=for-the-badge
+[contributors-url]: https://github.com/shivam6862/Django-React-Epic-Tales/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shivam6862/Django-React-Epic-Tales.svg?style=for-the-badge
+[forks-url]: https://github.com/shivam6862/Django-React-Epic-Tales/network/members
+[stars-shield]: https://img.shields.io/github/stars/shivam6862/Django-React-Epic-Tales.svg?style=for-the-badge
+[stars-url]: https://github.com/shivam6862/Django-React-Epic-Tales/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shivam6862/Django-React-Epic-Tales.svg?style=for-the-badge
+[issues-url]: https://github.com/shivam6862/Django-React-Epic-Tales/issues
+[license-shield]: https://img.shields.io/github/license/shivam6862/Django-React-Epic-Tales.svg?style=for-the-badge
+[license-url]: https://github.com/shivam6862/Django-React-Epic-Tales/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/shivam-kumar-14701b249/
+[react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://react.dev/
+[Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[Django-url]: https://docs.djangoproject.com/en/4.2/
+[VisualStudioCode]: https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
+[VisualStudioCode-url]: https://code.visualstudio.com/
